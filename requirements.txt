@@ -1,0 +1,14 @@
+joblib==1.4.2
+matplotlib==3.10.1
+mpmath==1.3.0
+numpy==1.24.4
+opacus==1.0.0
+pandas==2.2.3
+Pillow==8.2.0
+Pillow==11.2.1
+scikit_learn==1.6.1
+scipy==1.9.1
+sympy==1.13.1
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+tqdm==4.66.4
